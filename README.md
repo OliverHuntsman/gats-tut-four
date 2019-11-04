@@ -18,6 +18,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Use the Gatsby CLI to create a new site, specifying the hello-world starter.
 
+    YAHHHHOOOOO
+
     ```shell
     # create a new Gatsby site using the hello-world starter
     gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
